@@ -1,25 +1,22 @@
-
-header{
-    height: 100px;
-    top: 0%;
-    width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: lightgrey;
+body{
+    color: white;
 }
-
-nav{
-    width: 960px;
-    margin: 0 auto;
-}
-nav img{ 
-    float: left;
-    margin-right:15px;
-}
-nav li {
-    float: left;
-    margin: 0 auto;
-    margin-top: 25px;
-    margin-right: 80px;
+nav li{
     list-style: none;
+    padding: 12px;
+    display: inline-block;
+    margin: 35px 75px 0px 0px;
+    color: lightgrey;
+    text-align: center;
+}
+nav {
+    width: 100%;
+    top: 0%;
+    background: rgb(82, 82, 82);
+    height: 100px;
+}
+nav img{
+    float: left;
+    margin: 15px 40px 0px 135px;
+
 }
